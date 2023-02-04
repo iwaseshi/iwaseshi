@@ -5,7 +5,7 @@
 ## 💡 Skills
 
 
-![My Skills](https://skillicons.dev/icons?i=go,java,kotlin,spring,py,nodejs,js,ts,nextjs,angular,html,css,gcp,aws,docker,kafka,mysql,vscode,idea,git,github,githubactions,gitlab&perline=8)
+![My Skills](https://skillicons.dev/icons?i=go,java,kotlin,gradle,py,js,ts,nodejs,nextjs,angular,ktor,spring,html,css,gcp,aws,docker,kafka,mysql,jenkins,githubactions,github,gitlab,vscode,idea,&perline=7)
 
 ## 🏆 Trophy
 
