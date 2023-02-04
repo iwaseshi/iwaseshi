@@ -2,7 +2,7 @@
 
 [![Contributions](https://badgen.org/img/qiita/470_aaa/contributions?style=plastic)](https://qiita.com/470_aaa) [![Followers](https://badgen.org/img/qiita/470_aaa/followers?style=plastic)](https://qiita.com/470_aaa) [![Likes](https://badgen.org/img/zenn/burizae/likes?style=plastic)](https://zenn.dev/burizae) [![Followers](https://badgen.org/img/zenn/burizae/followers?style=plastic)](https://zenn.dev/burizae)
 
-Backend engineer at Japanese Start-up Company.
+Backend engineer at Japanese start-up company.
 
 ## 💡 Skills
 
