@@ -1,10 +1,10 @@
-# About iwaseshi
+# :ghost: About iwaseshi
 
 [![Contributions](https://badgen.org/img/qiita/470_aaa/contributions?style=plastic)](https://qiita.com/470_aaa) [![Followers](https://badgen.org/img/qiita/470_aaa/followers?style=plastic)](https://qiita.com/470_aaa) [![Likes](https://badgen.org/img/zenn/burizae/likes?style=plastic)](https://zenn.dev/burizae) [![Followers](https://badgen.org/img/zenn/burizae/followers?style=plastic)](https://zenn.dev/burizae)
 
 Backend engineer at Japanese start-up company.
 
-## 💡 Skills
+## :muscle: Experience
 
 
 ![My Skills](https://skillicons.dev/icons?i=go,java,kotlin,gradle,py,js,ts,nodejs,nextjs,angular,ktor,spring,html,css,gcp,aws,docker,kafka,mysql,jenkins,githubactions,github,gitlab,vscode,idea,&perline=7)
