@@ -1,4 +1,4 @@
-# 😈: About iwaseshi
+# 😈 About iwaseshi
 
 [![Contributions](https://badgen.org/img/qiita/470_aaa/contributions?style=plastic)](https://qiita.com/470_aaa) [![Likes](https://badgen.org/img/zenn/burizae/likes?style=plastic)](https://zenn.dev/burizae) 
 
