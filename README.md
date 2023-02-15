@@ -16,7 +16,7 @@ Backend engineer at Japanese start-up company.
 ## :muscle: Experience
 
 
-![My Skills](https://skillicons.dev/icons?i=go,java,kotlin,gradle,py,js,ts,nodejs,nextjs,angular,ktor,spring,html,css,gcp,aws,docker,kafka,mysql,jenkins,githubactions,github,gitlab,vscode,idea,&perline=7)
+![My Skills](https://skillicons.dev/icons?i=go,js,ts,kotlin,java,gradle,py,nodejs,nextjs,angular,ktor,spring,html,css,gcp,aws,docker,kafka,mysql,jenkins,githubactions,github,gitlab,vscode,idea,&perline=7)
 
 ## 🏆 Trophy
 
