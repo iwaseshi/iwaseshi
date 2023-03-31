@@ -11,7 +11,7 @@
 ```                                                                                                                           
 
 
-Web　Application　Engineer at Japanese start-up company.
+Web Application Engineer at Japanese start-up company.
 
 ## :muscle: Experience
 
